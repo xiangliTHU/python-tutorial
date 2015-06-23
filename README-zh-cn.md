@@ -1,5 +1,7 @@
-# 中文**Python**教程
+# 中文Python教程
 
-发现`ipython notebook`是个好东西，决定将我正在建设的**Python**教程使用`ipython notebook`构建了！！
+教程作者：李金
 
-建设中……
+邮件地址：lijinwithyou@gmail.com
+
+教材内容来自网络。
