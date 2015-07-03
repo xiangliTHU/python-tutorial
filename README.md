@@ -8,7 +8,7 @@
 
 默认安装了`python 2.7`，以及相关的第三方包`ipython`， `numpy`， `scipy`，`pandas`。
 
-> life is short. use python
+> life is short. use python.
 
 推荐使用[`anaconda`](http://www.continuum.io/downloads)，这个IDE集成了大部分常用的包。
 
