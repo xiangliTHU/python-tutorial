@@ -12,7 +12,7 @@
 
 推荐使用[`anaconda`](http://www.continuum.io/downloads)，这个IDE集成了大部分常用的包。
 
-教程内容使用`ipython notebook`来展示。
+笔记内容使用`ipython notebook`来展示。
 
 安装好`python`和相应的包之后，可以在命令行下输入：
 
