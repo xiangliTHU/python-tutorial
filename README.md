@@ -1,6 +1,6 @@
 # 中文Python笔记
 
-教程作者：李金
+笔记作者：李金
 
 邮件地址：lijinwithyou@gmail.com
 
