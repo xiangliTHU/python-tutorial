@@ -74,4 +74,8 @@ $ ipython notebook
     - [03.20](03. numpy) 结构化数组
     - [03.21](03. numpy) 记录数组
     - [03.22](03. numpy) 内存映射
+- **Scipy**
+    - [04.01](04. scipy) 科学 Python 计算简介
+    - [04.02](04. scipy) 使用 Scipy 进行插值
+    - [04.03](04. scipy) 使用 Scipy 进行统计
     
