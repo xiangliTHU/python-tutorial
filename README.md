@@ -1,8 +1,10 @@
 # 中文Python笔记
 
-笔记作者：李金
+> 版本：0.0.1
 
-邮件地址：lijinwithyou@gmail.com
+> 笔记作者：李金
+
+> 邮件地址：lijinwithyou@gmail.com
 
 大部分内容来自网络。
 
@@ -22,7 +24,7 @@ $ ipython notebook
 来进入`ipython notebook`。
 
 
-# 目录
+## 目录
 
 - **Python 工具**
     - [01.01](01. python tools) Python 简介
@@ -74,8 +76,9 @@ $ ipython notebook
     - [03.20](03. numpy) 结构化数组
     - [03.21](03. numpy) 记录数组
     - [03.22](03. numpy) 内存映射
+    - [03.23](03. numpy) Numpy vs Matlab
 - **Scipy**
     - [04.01](04. scipy) 科学 Python 计算简介
     - [04.02](04. scipy) 使用 Scipy 进行插值
     - [04.03](04. scipy) 使用 Scipy 进行统计
-    
+    - [04.04](04. scipy) 使用 Scipy 进行拟合
