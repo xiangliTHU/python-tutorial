@@ -82,3 +82,5 @@ $ ipython notebook
     - [04.02](04. scipy) 使用 Scipy 进行插值
     - [04.03](04. scipy) 使用 Scipy 进行统计
     - [04.04](04. scipy) 使用 Scipy 进行拟合
+- **Matplotlib**
+    - [06.01](06. matplotlib) 使用 matplotlib.pyplot 进行简单绘图
