@@ -29,16 +29,16 @@ $ ipython notebook
 
 ## 基本环境配置
 
-1. 安装 [`anaconda`](http://www.continuum.io/downloads)或者 [`miniconda`](http://conda.pydata.org/miniconda.html)
+- 安装 [`anaconda`](http://www.continuum.io/downloads)或者 [`miniconda`](http://conda.pydata.org/miniconda.html)
 
-2. 更新环境
+- 更新环境
 ``` 
 conda update conda
 conda update anaconda
 (conda install anaconda) 
 ```
 
-3. 安装 `theano`， `GPU` 加速需要另外配置，这里不做介绍。
+- 安装 `theano`， `GPU` 加速需要另外配置，这里不做介绍。
 ```
 conda install mingw libpython
 pip install theano
