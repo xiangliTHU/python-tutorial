@@ -6,6 +6,8 @@
 
 > 邮件地址：lijinwithyou@gmail.com
 
+## 简介
+
 大部分内容来自网络。
 
 默认安装了`python 2.7`，以及相关的第三方包`ipython`， `numpy`， `scipy`，`pandas`。
@@ -23,15 +25,36 @@ $ ipython notebook
 ```
 来进入`ipython notebook`。
 
+----
+
+## 基本环境配置
+
+1. 安装 [`anaconda`](http://www.continuum.io/downloads)或者 [`miniconda`](http://conda.pydata.org/miniconda.html)
+
+2. 更新环境
+``` 
+conda update conda
+conda update anaconda
+(conda install anaconda) 
+```
+
+3. 安装 `theano`， `GPU` 加速需要另外配置，这里不做介绍。
+```
+conda install mingw libpython
+pip install theano
+```
+
+
+----
 
 ## 目录
 
-- **Python 工具**
+- **`Python` 工具**
     - [01.01](01. python tools) Python 简介
     - [01.02](01. python tools) Ipython 解释器
     - [01.03](01. python tools) Ipython notebook
     - [01.04](01. python tools) 使用 Anaconda
-- **Python 基础**
+- **`Python` 基础**
     - [02.01](02. python essentials) Python 入门演示
     - [02.02](02. python essentials) Python 数据类型
     - [02.03](02. python essentials) 数字
@@ -53,7 +76,7 @@ $ ipython notebook
     - [02.19](02. python essentials) 异常处理
     - [02.20](02. python essentials) 警告
     - [02.21](02. python essentials) 文件读写
-- **Numpy**
+- **`Numpy`**
     - [03.01](03. numpy) Numpy 简介
     - [03.02](03. numpy) Matplotlib 基础
     - [03.03](03. numpy) Numpy 数组
@@ -77,10 +100,10 @@ $ ipython notebook
     - [03.21](03. numpy) 记录数组
     - [03.22](03. numpy) 内存映射
     - [03.23](03. numpy) Numpy vs Matlab
-- **Scipy**
+- **`Scipy`**
     - [04.01](04. scipy) 科学 Python 计算简介
     - [04.02](04. scipy) 使用 Scipy 进行插值
     - [04.03](04. scipy) 使用 Scipy 进行统计
     - [04.04](04. scipy) 使用 Scipy 进行拟合
-- **Matplotlib**
+- **`Matplotlib`**
     - [06.01](06. matplotlib) 使用 matplotlib.pyplot 进行简单绘图
