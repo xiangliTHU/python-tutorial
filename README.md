@@ -101,7 +101,7 @@ pip install theano
     - [03.20][4] 结构化数组
     - [03.21][4] 记录数组
     - [03.22][4] 内存映射
-    - [03.23][4] Numpy vs Matlab
+    - [03.23][4] 从 MATLAB 到 Numpy
 - **[04.](04. scipy) `Scipy`**
     - [04.01][5] 科学 Python 计算简介
     - [04.02][5] 使用 Scipy 进行插值
