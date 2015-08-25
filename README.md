@@ -51,12 +51,12 @@ pip install theano
 
 可以在[nbviewer][1]中查看该项目。
 
-- **[`Python` 工具](01. python tools)**
+- **[01.](01. python tools) `Python` 工具**
     - [01.01][2] Python 简介
     - [01.02][2] Ipython 解释器
     - [01.03][2] Ipython notebook
     - [01.04][2] 使用 Anaconda
-- **[`Python` 基础](02. python essentials)**
+- **[02.](02. python essentials) `Python` 基础**
     - [02.01][3] Python 入门演示
     - [02.02][3] Python 数据类型
     - [02.03][3] 数字
@@ -78,7 +78,7 @@ pip install theano
     - [02.19][3] 异常处理
     - [02.20][3] 警告
     - [02.21][3] 文件读写
-- **[`Numpy`](03. numpy)**
+- **[03.](03. numpy) `Numpy`**
     - [03.01][4] Numpy 简介
     - [03.02][4] Matplotlib 基础
     - [03.03][4] Numpy 数组
@@ -102,17 +102,17 @@ pip install theano
     - [03.21][4] 记录数组
     - [03.22][4] 内存映射
     - [03.23][4] Numpy vs Matlab
-- **[`Scipy`](04. scipy)**
+- **[04.](04. scipy) `Scipy`**
     - [04.01][5] 科学 Python 计算简介
     - [04.02][5] 使用 Scipy 进行插值
     - [04.03][5] 使用 Scipy 进行统计
     - [04.04][5] 使用 Scipy 进行拟合
-- **[`Matplotlib`](06. matplotlib)**
+- **[06.](06. matplotlib) `Matplotlib`**
     - [06.01][7] 使用 matplotlib.pyplot 进行简单绘图
     
 [1]:http://nbviewer.ipython.org/github/lijin-THU/python-tutorial
-[2]:http://nbviewer.ipython.org/github/lijin-THU/python-tutorial/tree/master/01.%20python%20tools/
-[3]:http://nbviewer.ipython.org/github/lijin-THU/python-tutorial/tree/master/02.%20python%20essentials/
-[4]:http://nbviewer.ipython.org/github/lijin-THU/python-tutorial/tree/master/03.%20numpy/
-[5]:http://nbviewer.ipython.org/github/lijin-THU/python-tutorial/tree/master/04.%20scipy/
-[7]:http://nbviewer.ipython.org/github/lijin-THU/python-tutorial/tree/master/05.%20matplotlib/
+[2]:http://nbviewer.ipython.org/github/lijin-THU/python-tutorial/blob/master/01.%20python%20tools/
+[3]:http://nbviewer.ipython.org/github/lijin-THU/python-tutorial/blob/master/02.%20python%20essentials/
+[4]:http://nbviewer.ipython.org/github/lijin-THU/python-tutorial/blob/master/03.%20numpy/
+[5]:http://nbviewer.ipython.org/github/lijin-THU/python-tutorial/blob/master/04.%20scipy/
+[7]:http://nbviewer.ipython.org/github/lijin-THU/python-tutorial/blob/master/05.%20matplotlib/
