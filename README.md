@@ -49,7 +49,7 @@ pip install theano
 
 ## 目录
 
-可以在[nbviewer][1]中查看该项目
+可以在[nbviewer][1]中查看该项目。
 
 - **[`Python` 工具](01. python tools)**
     - [01.01][2] Python 简介
