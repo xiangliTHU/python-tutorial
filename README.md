@@ -109,4 +109,3 @@ pip install theano
 	 - [04.04 使用 Scipy 进行拟合](04. scipy\04.04 curve fitting.ipynb)
 - [06. **Matplotlib**](06. matplotlib)
 	 - [06.01 使用 matplotlib.pyplot 进行简单绘图](06. matplotlib\06.01 simple plot using matplotlib.pyplot.ipynb)
-    
