@@ -14,7 +14,7 @@
 
 > life is short. use python.
 
-推荐使用[`anaconda`](http://www.continuum.io/downloads)，这个IDE集成了大部分常用的包。
+推荐使用[anaconda](http://www.continuum.io/downloads)，这个IDE集成了大部分常用的包。
 
 笔记内容使用`ipython notebook`来展示。
 
@@ -29,7 +29,7 @@ $ ipython notebook
 
 ## 基本环境配置
 
-- 安装 [`anaconda`](http://www.continuum.io/downloads)或者 [`miniconda`](http://conda.pydata.org/miniconda.html)
+- 安装 [anaconda](http://www.continuum.io/downloads) 或者 [miniconda](http://conda.pydata.org/miniconda.html)
 
 - 更新环境
 ``` 
@@ -63,7 +63,7 @@ pip install theano
 - [01. **Python** 工具](01. python tools)
 	 - [01.01 Python简介](01. python tools/01.01 python overview.ipynb)
 	 - [01.02 Ipython 解释器](01. python tools/01.02 ipython interpreter.ipynb)
-	 - [01.03 ipython notebook](01. python tools/01.03 ipython notebook.ipynb)
+	 - [01.03 Ipython notebook](01. python tools/01.03 ipython notebook.ipynb)
 	 - [01.04 使用 Anaconda](01. python tools/01.04 use anaconda.ipynb)
 - [02. **Python** 基础](02. python essentials)
 	 - [02.01 Python 入门演示](02. python essentials/02.01 a tour of python.ipynb)
@@ -104,7 +104,7 @@ pip install theano
 	 - [03.14 向量化函数](03. numpy/03.14 vectorizing functions.ipynb)
 	 - [03.15 二元运算](03. numpy/03.15 binary operators.ipynb)
 	 - [03.16 通用函数](03. numpy/03.16 universal functions.ipynb)
-	 - [03.17 choose](03. numpy/03.17 choose.ipynb)
+	 - [03.17 choose 函数实现条件筛选](03. numpy/03.17 choose.ipynb)
 	 - [03.18 数组广播机制](03. numpy/03.18 array broadcasting.ipynb)
 	 - [03.19 数组读写](03. numpy/03.19 reading and writing arrays.ipynb)
 	 - [03.20 结构化数组](03. numpy/03.20 structured arrays.ipynb)
@@ -118,3 +118,4 @@ pip install theano
 	 - [04.04 使用 Scipy 进行拟合](04. scipy/04.04 curve fitting.ipynb)
 - [06. **Matplotlib**](06. matplotlib)
 	 - [06.01 使用 matplotlib.pyplot 进行简单绘图](06. matplotlib/06.01 simple plot using matplotlib.pyplot.ipynb)
+	 - [06.02 图，子图，轴，记号](06. matplotlib/06.02 figures, subplots, axes and ticks.ipynb)
