@@ -59,7 +59,7 @@ pip install theano
 
 ## 目录
 
-可以在[nbviewer](http://nbviewer.ipython.org/github/lijin-THU/python-tutorial)中查看该项目。
+可以在[nbviewer](http://nbviewer.ipython.org/github/lijin-THU/python-tutorial/index.ipynb)中查看该项目。
 
 - [01. **Python** 工具](01. python tools)
 	 - [01.01 Python简介](01. python tools/01.01 python overview.ipynb)
@@ -97,7 +97,7 @@ pip install theano
 	 - [03.06 数组排序](03. numpy/03.06 sorting numpy arrays.ipynb)
 	 - [03.07 数组形状](03. numpy/03.07 array shapes.ipynb)
 	 - [03.08 对角线](03. numpy/03.08 diagonals.ipynb)
-	 - [03.09 数组字符串的转换](03. numpy/03.09 data to & from string.ipynb)
+	 - [03.09 数组与字符串的转换](03. numpy/03.09 data to & from string.ipynb)
 	 - [03.10 数组属性方法总结](03. numpy/03.10 array attribute & method overview .ipynb)
 	 - [03.11 生成数组的函数](03. numpy/03.11 array creation functions.ipynb)
 	 - [03.12 矩阵](03. numpy/03.12 matrix object.ipynb)
@@ -118,5 +118,8 @@ pip install theano
 	 - [04.03 使用 Scipy 进行统计](04. scipy/04.03 statistics with scipy.ipynb)
 	 - [04.04 使用 Scipy 进行拟合](04. scipy/04.04 curve fitting.ipynb)
 - [06. **Matplotlib**](06. matplotlib)
-	 - [06.01 使用 matplotlib.pyplot 进行简单绘图](06. matplotlib/06.01 simple plot using matplotlib.pyplot.ipynb)
-	 - [06.02 图，子图，轴，记号](06. matplotlib/06.02 figures, subplots, axes and ticks.ipynb)
+	 - [06.01 Pyplot 教程](06. matplotlib/06.01 pyplot tutorial.ipynb)
+	 - [06.02 使用 style 来配置 pyplot 风格](06. matplotlib/06.02 customizing plots with style sheets.ipynb)
+	 - [06.03 图像中的文字](06. matplotlib/06.03 working with text.ipynb)
+	 - [06.07 图，子图，轴，记号](06. matplotlib/06.07 figures, subplots, axes and ticks.ipynb)
+	 - [06.09 规则5：不要迷信默认设置](06. matplotlib/06.09 rules 5 do not trust the defaults.ipynb)
