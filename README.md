@@ -6,15 +6,18 @@
 
 > 邮件地址：lijinwithyou@gmail.com
 
+{:toc}
+
+
 ## 简介
 
 大部分内容来自网络。
 
-默认安装了`python 2.7`，以及相关的第三方包`ipython`， `numpy`， `scipy`，`pandas`。
+默认安装了`python 2.7`，以及相关的第三方包 `ipython`， `numpy`， `scipy`，`pandas`。
 
 > life is short. use python.
 
-推荐使用[anaconda](http://www.continuum.io/downloads)，这个IDE集成了大部分常用的包。
+推荐使用 [anaconda](http://www.continuum.io/downloads)，这个IDE集成了大部分常用的包。
 
 笔记内容使用`ipython notebook`来展示。
 
